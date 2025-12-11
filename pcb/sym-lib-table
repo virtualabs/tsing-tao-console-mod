@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Espressif")(type "KiCad")(uri "/home/virtualabs/opt/kicad/kicad-libraries/libraries/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "max98357a")(type "KiCad")(uri "${KIPRJMOD}/lib/max98357a.kicad_sym")(options "")(descr ""))
+)
