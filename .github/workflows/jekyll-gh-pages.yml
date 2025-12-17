@@ -34,7 +34,7 @@ jobs:
         env:
            JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-           cd build/docs
+           cd docs
            bundle install
            bundle exec jekyll build --source . --destination _site
       - name: Upload artifact
