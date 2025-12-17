@@ -9,7 +9,7 @@ Introducing TsingTao
 TsingTao is a custom mod for those cheap Chinese consoles you can find on the Internet,
 like the one below:
 
-{:refdef: style="text-align: center;"}
+{:refdef:  style="text-align: center;"}
 ![Cheap handeld console from AliExpress](/tsing-tao-console-mod/assets/img/intro/console.png)
 {: refdef}
 
