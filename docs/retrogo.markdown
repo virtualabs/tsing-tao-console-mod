@@ -53,6 +53,7 @@ Switch off the console again, eject the micro SD card and copy ROM files to the 
 folders and insert it again into the handeld. Switch it on, and you should see your games in
 the list of games of the console they were designed to run on.
 
+Enjoy !
 
 Frequently Asked Questions
 ==========================
