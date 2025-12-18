@@ -15,7 +15,7 @@ Gerber export
 -------------
 
 This mod's PCB can be poroduced by many Chinese low-cost PCB manufacturers like [JLCPCB](https://jlcpcb.com) or
-[PCBWay](https://pcbway.com) using [this Gerber file (ZIP)](https://github.com/virtualabs/tsing-tao-console-mod/).
+[PCBWay](https://pcbway.com) using [this Gerber file (ZIP)](https://raw.githubusercontent.com/virtualabs/tsing-tao-console-mod/refs/heads/main/gerber/tsing-tao-mod-v1.gerber.zip).
 
 Bill of Materials
 -----------------
