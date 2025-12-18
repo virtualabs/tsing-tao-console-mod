@@ -33,7 +33,7 @@ the TsingTao Retro-Go image. It should be available in most Linux distributions 
 package, if not you can install it by following [Espressif's setup guide](https://docs.espressif.com/projects/esptool/en/latest/esp32/).
 
 Then, connect your modded console to your computer using a USB cable. Make sure the console is powered
-on (power switch facing `ON`), and issue the following command (replace ``tsingtao_*.img`` with the
+on (power switch facing `ON`), and issue the following command (replace ``tsingtao-retrogo-v*.img`` with the
 filename of the image downloaded in the previous step):
 
 ```shell
