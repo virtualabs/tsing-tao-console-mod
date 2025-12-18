@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Installation
-nav_order: 2
+nav_order: 3
 ---
 
 Installation
@@ -15,7 +15,9 @@ Disassembling the handeld
 First, remove the console lid and battery located on the rear side of the device. Then remove the
 six screws holding the the two halves of the console's main shell:
 
-TODO: image
+{:refdef: style="text-align: center;"}
+![Location of the six screws](/tsing-tao-console-mod/assets/img/disassembly/rear-view.jpg)
+{: refdef}
 
 Once opened, extract the PCB from the device and put the two halves of the main shell aside.
 This PCB should look like the one below (note that there are a lot of variants for these handeld
